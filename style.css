@@ -52,7 +52,7 @@ body
 {background: url('http://i267.photobucket.com/albums/ii284/mrsfjl66/balloon%20copy_zps0ojaifme.jpg') repeat fixed center center/ cover rgba(0, 0, 0, 0);}
 
 #inner {
-    width: 750px; 
+    width: 100%; 
     margin: 0 auto;
 }
 
@@ -72,8 +72,12 @@ font-family: pacifico, cursive;
     z-index: 1000; 
 }
 
-#link{position:fixed;
-      left:600px;}
+#link{
+text-align:center;
+margin: 0 auto;
+	width: 100%;
+
+}
 									
 
 		
